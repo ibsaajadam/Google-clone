@@ -20,7 +20,7 @@ Site created with HTML5, CSS3, JavaScript (with AJAX), PHP, & MySQL
 ## General info
 Fun project to experiment more with PHP, MySQL, JavaScript & AJAX. Found this tutorial on Udemy and thought it would be a great learning experience to build. 
 
-Pretty much the site is a Google clone and crawls other web pages like bbc.com, google.com, apple.com and others to retrieve information to input in the MySQL database. Then you can search this site, just like Google, to retrieve both links and images to your search.
+Pretty much the site is a Google clone and crawls other web pages like bbc.com, google.com, apple.com and others to retrieve information to index in the MySQL database. Then you can search this site, just like Google, to retrieve both links and images to your search.
 
 
 ## Technologies
